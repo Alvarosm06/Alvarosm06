@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+⚡ Soy Álvaro, actualmente estoy estudiando 1ºDAW en IES Alixar en Castilleja de la Cuesta, Sevilla.
+
+🔭 Me gusta la tecnología y el deporte, soy simpático y me gusta trabajar en equipo.
+
 <!--
 **Alvarosm06/Alvarosm06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
